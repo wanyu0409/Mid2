@@ -10,6 +10,6 @@ public class Func8Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_func8);
-        Toast.makeText(this, "特殊功能", Toast.LENGTH_LONG).show();
+
     }
 }
